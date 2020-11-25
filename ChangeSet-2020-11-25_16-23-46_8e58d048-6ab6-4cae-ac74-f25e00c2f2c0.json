@@ -1,0 +1,57 @@
+[{
+  "@id":1,
+  "@type":"sh.isaac.model.semantic.SemanticChronologyImpl",
+  "semanticType":"STRING",
+  "nid":"-2147477460",
+  "uuidList":[
+    "412f8b44-b84c-4b28-98f3-cdd2cb746b9b"
+  ],
+  "assemblageNid":"-2147483381",
+  "referencedComponentNid":"-2147483182",
+  "referencedComponentUuid":"ee9ac5d2-a07c-3981-a57a-f7f26baf38d8",
+  "versions":[
+    {
+      "@type":"sh.isaac.model.semantic.version.StringVersionImpl",
+      "stamp sequence":"15",
+      "status":"Active",
+      "time":"2020-11-11T05:12:08.895Z",
+      "author":"-2147483640",
+      "module":"-2147483597",
+      "path":"-2147483600",
+      "string":"test"
+    },
+    {
+      "@type":"sh.isaac.model.semantic.version.StringVersionImpl",
+      "stamp sequence":"22",
+      "status":"Active",
+      "time":"2020-11-25T21:37:44.647Z",
+      "author":"-2147483640",
+      "module":"-2147483597",
+      "path":"-2147483600",
+      "string":"test"
+    }
+  ]
+},{
+  "@id":2,
+  "@type":"sh.isaac.model.semantic.SemanticChronologyImpl",
+  "semanticType":"STRING",
+  "nid":"-2147477458",
+  "uuidList":[
+    "7e348ffb-cde8-43f7-9e86-3c9998d8381d"
+  ],
+  "assemblageNid":"-2147483188",
+  "referencedComponentNid":"-2147477460",
+  "referencedComponentUuid":"412f8b44-b84c-4b28-98f3-cdd2cb746b9b",
+  "versions":[
+    {
+      "@type":"sh.isaac.model.semantic.version.StringVersionImpl",
+      "stamp sequence":"23",
+      "status":"Active",
+      "time":"2020-11-25T21:38:31.604Z",
+      "author":"-2147483640",
+      "module":"-2147483597",
+      "path":"-2147483600",
+      "string":"Acknowledging the test :)"
+    }
+  ]
+}

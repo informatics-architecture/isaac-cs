@@ -1,0 +1,188 @@
+[{
+  "@id":1,
+  "@type":"sh.isaac.model.concept.ConceptChronologyImpl",
+  "nid":"-2147483642",
+  "uuidList":[
+    "7c21b6c5-cf11-5af9-893b-743f004c97f5"
+  ],
+  "versions":[
+    {
+      "@type":"sh.isaac.model.concept.ConceptVersionImpl",
+      "stamp sequence":"2",
+      "status":"Active",
+      "time":"2020-11-25T21:07:18.043Z",
+      "author":"-2147483640",
+      "module":"-2147483454",
+      "path":"-2147483419"
+    }
+  ]
+},{
+  "@id":2,
+  "@type":"sh.isaac.model.semantic.SemanticChronologyImpl",
+  "semanticType":"STRING",
+  "nid":"-2147477463",
+  "uuidList":[
+    "ae5986af-30d0-4ef4-b1dc-894fbe83cc5c"
+  ],
+  "assemblageNid":"-2147483641",
+  "referencedComponentNid":"-2147483642",
+  "referencedComponentUuid":"7c21b6c5-cf11-5af9-893b-743f004c97f5",
+  "versions":[
+    {
+      "@type":"sh.isaac.model.semantic.version.StringVersionImpl",
+      "stamp sequence":"7",
+      "status":"Active",
+      "time":"2020-11-11T05:49:55.944Z",
+      "author":"-2147483640",
+      "module":"-2147483597",
+      "path":"-2147483600",
+      "string":"0743500d-d14f-44da-b9e2-5b0ad1ab836e"
+    }
+  ]
+},{
+  "@id":3,
+  "@type":"sh.isaac.model.concept.ConceptChronologyImpl",
+  "nid":"-2147483642",
+  "uuidList":[
+    "7c21b6c5-cf11-5af9-893b-743f004c97f5"
+  ],
+  "versions":[
+    {
+      "@type":"sh.isaac.model.concept.ConceptVersionImpl",
+      "stamp sequence":"2",
+      "status":"Active",
+      "time":"2020-11-25T21:07:18.043Z",
+      "author":"-2147483640",
+      "module":"-2147483454",
+      "path":"-2147483419"
+    }
+  ]
+},{
+  "@id":4,
+  "@type":"sh.isaac.model.concept.ConceptChronologyImpl",
+  "nid":"-2147483182",
+  "uuidList":[
+    "ee9ac5d2-a07c-3981-a57a-f7f26baf38d8", "a892950a-0847-300c-b477-4e3cbb945225"
+  ],
+  "versions":[
+    {
+      "@type":"sh.isaac.model.concept.ConceptVersionImpl",
+      "stamp sequence":"2",
+      "status":"Active",
+      "time":"2020-11-25T21:07:18.043Z",
+      "author":"-2147483640",
+      "module":"-2147483454",
+      "path":"-2147483419"
+    }
+  ]
+},{
+  "@id":5,
+  "@type":"sh.isaac.model.semantic.SemanticChronologyImpl",
+  "semanticType":"STRING",
+  "nid":"-2147477462",
+  "uuidList":[
+    "b078576f-c5f2-4b71-adec-14774924e7dd"
+  ],
+  "assemblageNid":"-2147483641",
+  "referencedComponentNid":"-2147483642",
+  "referencedComponentUuid":"7c21b6c5-cf11-5af9-893b-743f004c97f5",
+  "versions":[
+    {
+      "@type":"sh.isaac.model.semantic.version.StringVersionImpl",
+      "stamp sequence":"10",
+      "status":"Active",
+      "time":"2020-11-11T05:11:16.802Z",
+      "author":"-2147483640",
+      "module":"-2147483597",
+      "path":"-2147483600",
+      "string":"ff1a22b6-26a9-444b-a44e-5fbce53cd403"
+    }
+  ]
+},{
+  "@id":6,
+  "@type":"sh.isaac.model.semantic.SemanticChronologyImpl",
+  "semanticType":"STRING",
+  "nid":"-2147477461",
+  "uuidList":[
+    "742ef6e2-6e42-460c-9754-33215a9cf597"
+  ],
+  "assemblageNid":"-2147483641",
+  "referencedComponentNid":"-2147483642",
+  "referencedComponentUuid":"7c21b6c5-cf11-5af9-893b-743f004c97f5",
+  "versions":[
+    {
+      "@type":"sh.isaac.model.semantic.version.StringVersionImpl",
+      "stamp sequence":"14",
+      "status":"Active",
+      "time":"2020-11-11T05:08:52.742Z",
+      "author":"-2147483640",
+      "module":"-2147483597",
+      "path":"-2147483600",
+      "string":"ea1f2048-2cce-4159-aa5c-46cd429e4a6c"
+    }
+  ]
+},{
+  "@id":7,
+  "@type":"sh.isaac.model.semantic.SemanticChronologyImpl",
+  "semanticType":"STRING",
+  "nid":"-2147477460",
+  "uuidList":[
+    "412f8b44-b84c-4b28-98f3-cdd2cb746b9b"
+  ],
+  "assemblageNid":"-2147483381",
+  "referencedComponentNid":"-2147483182",
+  "referencedComponentUuid":"ee9ac5d2-a07c-3981-a57a-f7f26baf38d8",
+  "versions":[
+    {
+      "@type":"sh.isaac.model.semantic.version.StringVersionImpl",
+      "stamp sequence":"15",
+      "status":"Active",
+      "time":"2020-11-11T05:12:08.895Z",
+      "author":"-2147483640",
+      "module":"-2147483597",
+      "path":"-2147483600",
+      "string":"test"
+    }
+  ]
+},{
+  "@id":8,
+  "@type":"sh.isaac.model.concept.ConceptChronologyImpl",
+  "nid":"-2147483642",
+  "uuidList":[
+    "7c21b6c5-cf11-5af9-893b-743f004c97f5"
+  ],
+  "versions":[
+    {
+      "@type":"sh.isaac.model.concept.ConceptVersionImpl",
+      "stamp sequence":"2",
+      "status":"Active",
+      "time":"2020-11-25T21:07:18.043Z",
+      "author":"-2147483640",
+      "module":"-2147483454",
+      "path":"-2147483419"
+    }
+  ]
+},{
+  "@id":9,
+  "@type":"sh.isaac.model.semantic.SemanticChronologyImpl",
+  "semanticType":"STRING",
+  "nid":"-2147477459",
+  "uuidList":[
+    "601eb7fe-e6be-4bfd-8630-e7527d1a482b"
+  ],
+  "assemblageNid":"-2147483641",
+  "referencedComponentNid":"-2147483642",
+  "referencedComponentUuid":"7c21b6c5-cf11-5af9-893b-743f004c97f5",
+  "versions":[
+    {
+      "@type":"sh.isaac.model.semantic.version.StringVersionImpl",
+      "stamp sequence":"16",
+      "status":"Active",
+      "time":"2020-11-11T21:11:43.195Z",
+      "author":"-2147483640",
+      "module":"-2147483597",
+      "path":"-2147483600",
+      "string":"4cd7a430-9ddd-4af4-b2dd-3ad015b7332d"
+    }
+  ]
+}]
