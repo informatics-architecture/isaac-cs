@@ -1,0 +1,129 @@
+[{
+  "@id":1,
+  "@type":"sh.isaac.model.concept.ConceptChronologyImpl",
+  "nid":"-2147483642",
+  "uuidList":[
+    "7c21b6c5-cf11-5af9-893b-743f004c97f5"
+  ],
+  "versions":[
+    {
+      "@type":"sh.isaac.model.concept.ConceptVersionImpl",
+      "stamp sequence":"1",
+      "status":"Active",
+      "time":"2020-11-25T21:12:13.755Z",
+      "author":"-2147483640",
+      "module":"-2147483454",
+      "path":"-2147483419"
+    }
+  ]
+},{
+  "@id":2,
+  "@type":"sh.isaac.model.semantic.SemanticChronologyImpl",
+  "semanticType":"STRING",
+  "nid":"-2147477458",
+  "uuidList":[
+    "c512d87d-6423-428c-aa40-7e1cc4ba7592"
+  ],
+  "assemblageNid":"-2147483641",
+  "referencedComponentNid":"-2147483642",
+  "referencedComponentUuid":"7c21b6c5-cf11-5af9-893b-743f004c97f5",
+  "versions":[
+    {
+      "@type":"sh.isaac.model.semantic.version.StringVersionImpl",
+      "stamp sequence":"22",
+      "status":"Active",
+      "time":"2020-11-25T21:09:18.992Z",
+      "author":"-2147483640",
+      "module":"-2147483597",
+      "path":"-2147483600",
+      "string":"b4ed5644-135f-4c0d-9065-f606467a90a5"
+    }
+  ]
+},{
+  "@id":3,
+  "@type":"sh.isaac.model.concept.ConceptChronologyImpl",
+  "nid":"-2147482902",
+  "uuidList":[
+    "ee9ac5d2-a07c-3981-a57a-f7f26baf38d8", "a892950a-0847-300c-b477-4e3cbb945225"
+  ],
+  "versions":[
+    {
+      "@type":"sh.isaac.model.concept.ConceptVersionImpl",
+      "stamp sequence":"1",
+      "status":"Active",
+      "time":"2020-11-25T21:12:13.755Z",
+      "author":"-2147483640",
+      "module":"-2147483454",
+      "path":"-2147483419"
+    }
+  ]
+},{
+  "@id":4,
+  "@type":"sh.isaac.model.semantic.SemanticChronologyImpl",
+  "semanticType":"STRING",
+  "nid":"-2147477461",
+  "uuidList":[
+    "412f8b44-b84c-4b28-98f3-cdd2cb746b9b"
+  ],
+  "assemblageNid":"-2147483346",
+  "referencedComponentNid":"-2147482902",
+  "referencedComponentUuid":"ee9ac5d2-a07c-3981-a57a-f7f26baf38d8",
+  "versions":[
+    {
+      "@type":"sh.isaac.model.semantic.version.StringVersionImpl",
+      "stamp sequence":"14",
+      "status":"Active",
+      "time":"2020-11-11T05:12:08.895Z",
+      "author":"-2147483640",
+      "module":"-2147483597",
+      "path":"-2147483600",
+      "string":"test"
+    }
+  ]
+},{
+  "@id":5,
+  "@type":"sh.isaac.model.semantic.SemanticChronologyImpl",
+  "semanticType":"STRING",
+  "nid":"-2147477457",
+  "uuidList":[
+    "7e348ffb-cde8-43f7-9e86-3c9998d8381d"
+  ],
+  "assemblageNid":"-2147482899",
+  "referencedComponentNid":"-2147477461",
+  "referencedComponentUuid":"412f8b44-b84c-4b28-98f3-cdd2cb746b9b",
+  "versions":[
+    {
+      "@type":"sh.isaac.model.semantic.version.StringVersionImpl",
+      "stamp sequence":"27",
+      "status":"Active",
+      "time":"2020-11-25T21:38:31.604Z",
+      "author":"-2147483640",
+      "module":"-2147483597",
+      "path":"-2147483600",
+      "string":"Acknowledging the test :)"
+    }
+  ]
+},{
+  "@id":6,
+  "@type":"sh.isaac.model.semantic.SemanticChronologyImpl",
+  "semanticType":"STRING",
+  "nid":"-2147477456",
+  "uuidList":[
+    "8dcb86cc-acb2-42f9-9dab-348996f23bf2"
+  ],
+  "assemblageNid":"-2147482899",
+  "referencedComponentNid":"-2147477457",
+  "referencedComponentUuid":"7e348ffb-cde8-43f7-9e86-3c9998d8381d",
+  "versions":[
+    {
+      "@type":"sh.isaac.model.semantic.version.StringVersionImpl",
+      "stamp sequence":"28",
+      "status":"Active",
+      "time":"2020-11-25T21:52:43.231Z",
+      "author":"-2147483640",
+      "module":"-2147483597",
+      "path":"-2147483600",
+      "string":"Acknowledging from Windows!"
+    }
+  ]
+}
